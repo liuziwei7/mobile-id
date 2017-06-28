@@ -49,7 +49,9 @@ The `MobileID` system is trained on [CelebA Dataset](http://mmlab.ie.cuhk.edu.hk
 
 *Note that there are no identity overlapping between [CelebA Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) and [LFW Dataset](http://vis-www.cs.umass.edu/lfw/).*
 
-## Citation
+## License and Citation
+The use of this software is RESTRICTED to **non-commercial research and educational purposes**.
+
 ```
 @inproceedings{luo2016mobileid,
  author = {Ping Luo, Zhenyao Zhu, Ziwei Liu, Xiaogang Wang, and Xiaoou Tang},
