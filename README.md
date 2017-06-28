@@ -3,11 +3,8 @@
 
 ## Overview
 `MobileID` is an extremely fast face recognition system by distilling knowledge from [DeepID2](http://www.ee.cuhk.edu.hk/~xgwang/papers/sunCWTnips14.pdf). Given a detected and aligned face image, this software outputs a low-dimentional *face representation* which faithfully preserves its identity information. More details can be found in our paper:
-
 "Face Model Compression by Distilling Knowledge from Neurons"
-
-[Ping Luo](http://personal.ie.cuhk.edu.hk/~pluo/), [Zhenyao Zhu](https://scholar.google.com/citations?user=r3k-4MYAAAAJ&hl=en), [Ziwei Liu](http://personal.ie.cuhk.edu.hk/~lz013/), [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/), [Xiaoou Tang](https://www.ie.cuhk.edu.hk/people/xotang.shtml) (The Chinese University of Hong Kong)   
-
+[Ping Luo](http://personal.ie.cuhk.edu.hk/~pluo/), [Zhenyao Zhu](https://scholar.google.com/citations?user=r3k-4MYAAAAJ&hl=en), [Ziwei Liu](http://personal.ie.cuhk.edu.hk/~lz013/), [Xiaogang Wang](http://www.ee.cuhk.edu.hk/~xgwang/), [Xiaoou Tang](https://www.ie.cuhk.edu.hk/people/xotang.shtml) (The Chinese University of Hong Kong)
 In AAAI Conference on Artificial Intelligence (AAAI) 2016, Oral Presentation
 
 <img src='./misc/vis_tsne_gallery.jpg' width=540>
