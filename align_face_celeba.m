@@ -15,6 +15,10 @@ function [img_align, landmarks_align] = align_face_celeba(img_orig, landmarks_or
 % 'img_align': the aligned face image with the size of 218*178
 % 'landmarks_align': the position of five facial landmarks on the aligned face image
 
+	% crop faces in celeba_align
+	% bbox = [33.117700 144.882300 41.605820 172.394180]; % [x1, x2, y1, y2]
+	% bbox = [10.000000 168.000000 14.553191 199.446809]; % [x1, x2, y1, y2]
+
 	pos_align = [70.745     112
 		  		 108.237    112
 	      		 89.432     153.514];
